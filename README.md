@@ -40,7 +40,7 @@ To view all settings and their origin:
 git config --list --show-origin
 ```
 
-## 🚀 Common Git Commands (Quick Reference)
+## 🚀 Common Git Commands 
 
 `git init`
 
